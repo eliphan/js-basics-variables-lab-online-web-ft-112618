@@ -3,4 +3,4 @@ const companyName = 'Scuber'
 
 let mostProfitableNeighborhood = 'Chelsea'
 
-let companyCeo = 'S'
+let companyCeo = 'Susan Smith'
